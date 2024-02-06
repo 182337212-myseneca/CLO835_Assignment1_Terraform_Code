@@ -1,7 +1,7 @@
 # Default tags
 variable "default_tags" {
   default = {
-    "Owner" = "Rishi",
+    "Owner" = "Anirban",
     "App"   = "Assignment",
     "Course" = "CLO835"
   }
